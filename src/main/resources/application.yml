@@ -8,3 +8,4 @@ eureka:
 security:
   basic:
     enabled: false
+    
